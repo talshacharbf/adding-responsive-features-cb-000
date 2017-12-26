@@ -75,7 +75,7 @@
 @@media only screen and (max-width: 700px) {
   #navbar nav a {
     display: none;
-  }  
+  }
 
   #navbar nav a.menu-icon {
     display: block;
@@ -84,6 +84,9 @@
     padding: 10px 20px;
     width: auto;
   }
-  
-}
 
+  #logo{
+    padding: 60px 0 0;
+  }
+
+}
